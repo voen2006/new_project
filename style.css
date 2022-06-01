@@ -1,0 +1,27 @@
+.logo{
+    width: 100px;
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: rgb(38, 245, 76);
+}
+.main{
+    background-color: #ffff;
+    margin-bottom: 0;
+}
+.futter{
+    background-color: black;
+    font-size: 40px;
+    color: #ffff; 
+    text-align: start;
+    height: 100%;
+    padding-left: 30px;
+    word-spacing: 10px;
+    
+}
+.futter>a{
+ color: #ffff;
+}
+
