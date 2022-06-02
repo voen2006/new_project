@@ -22,4 +22,11 @@ body{
 }
 .ff>a{
     color: #ffff;
-   }
+}
+.wepon{
+    width: 30px;
+}
+.zagolovok{
+    text-align: center;
+}
+
