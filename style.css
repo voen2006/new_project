@@ -56,3 +56,23 @@ h2{
 li{
     list-style: none;
 }
+.ff>p{
+    font-size: 1rem ;
+    color: white;
+}
+.ff>p{
+    align-items: center;
+}
+.futter{
+    padding: 10px 0;
+    background-color: black;
+    font-size: 40px;
+    color: #ffff; 
+    text-align: start;
+    height: 100%;
+    word-spacing: 10px;
+    
+}
+.ff>a{
+    color: #ffff;
+}
